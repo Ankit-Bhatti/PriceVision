@@ -21,7 +21,7 @@ This was created as a **learning project** to practice the complete ML workflow 
 
 ## 📊 Results
 
-- Achieved an R² score of **(insert your best model’s score here)**.
+- Achieved an R² score of **0.9999781062026484**.
 - Identified key features that heavily influence price prediction.
 
 ## 📚 Key Takeaways
